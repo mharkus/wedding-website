@@ -1,0 +1,30 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+html{
+        background: image-url('tileable_wood_texture.png');
+}
+
+body > header{
+  -moz-border-top-left-radius: 15px;
+  -webkit-border-top-left-radius: 15px;
+  border-top-left-radius: 15px;
+  -moz-border-top-right-radius: 15px;
+  -webkit-border-top-right-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+body > header {
+	margin-top:60px;
+	background: image-url('brownonbluefloral_border.gif');
+}
+
+
+.blog-index {
+	margin: 30px;
+}
+
+
+ #galleria{
+	height:420px;
+	width: 420px;
+}
