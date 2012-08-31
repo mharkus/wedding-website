@@ -7,7 +7,8 @@ sharing: true
 footer: true
 ---
 
-
+<center><img src="/images/photos/tajmahalstructure.jpeg"/></center>
+<br/>
 Taj Mahal in Agra, India was an unplanned trip. Marc and I will just go to India to attend a friend's wedding in Bangalore. Agra India is a two-hour flight from Bangalore to New Delhi and a four-drive to Agra.
 
 It was sudden, it was Marc who suggested to do a sidetrip in Taj Mahal. Well, of course, I said, yes at first but as we were checking the amount which will be spent for the flights alone, I became hesitant. I remember I keep telling him, "Wag na lang, sandali lang naman tayo." and he will reply,"Kase asa India na tayo, malabo na tayo makabalik don. Tignan mo yong sa Langkawi, hanggang ngayon hinde pa rin tayo nakakabalik. Kahit isa sa mga pinuntahan natin, wala pa tayo nababalikan." with what he said, I realized, it's true and so I agreed, but I am still thinking twice.
@@ -26,6 +27,14 @@ June 02, 2012. We need to wake up early for our tour to catch and witness the di
 
 While inside we keep on taking photos and Raj does his job by telling us stories of Taj Mahal and other interesting stuff. Before seeing the Taj Magal, you'll be first asking yourself why there are a lot of rooms. As you passed by, there's another building before you can witness the majesctic creation.
 
-Voila! After a lot of picture taking, here's npw the Taj Mahal, shining so bright as bright as the sun. It's so radiant and mesmerizing that you keep on taking pictures at every angle. Raj asked to take a photo of us and Taj Mahal as the background. After the second shot, Marc asked for another one. As i am posing for the picture, Marc is getting the ring from his pocket. I told him " ano yang ginagawa mo?" as he seems acting again or will be doing some naughty stuff. I still didn't hear and get it that he was calling my name, he said, " Weng, Weng" and I uttered, "ano yaan" looking at the ring and I said, "totoo ba yan" and so I am already out of myself as I keep on saying, "Oh my God, Oh my GOd" . haha! I can't help but smile because we had a lot of bloopers, MArc was unable to open the box and me is out myself still clueless if what's happening is a real one. I just realized it was true when he kneel down and said, "Will you marry me", being a super excited one, "I screamed," Isuot mo, isuot mo" haha, that was really a funny one. He wore the ring and after that a lot of smiles are on us. People are smiling and seemed so happy for us. Raj said, full of surprises ah, because even him was surprised and stucked ;)
+<center><img src="/images/photos/tajmahal.jpeg"/></center>
+
+Voila! After a lot of picture taking, here's now the Taj Mahal, shining so bright as bright as the sun. It's so radiant and mesmerizing that you keep on taking pictures at every angle. Raj asked to take a photo of us and Taj Mahal as the background. After the second shot, Marc asked for another one. As i am posing for the picture, Marc is getting the ring from his pocket. I told him " ano yang ginagawa mo?" as he seems acting again or will be doing some naughty stuff. I still didn't hear and get it that he was calling my name, he said, " Weng, Weng" and I uttered, "ano yaan" looking at the ring and I said, "totoo ba yan" and so I am already out of myself as I keep on saying, "Oh my God, Oh my GOd" . haha! I can't help but smile because we had a lot of bloopers, MArc was unable to open the box and me is out myself still clueless if what's happening is a real one. I just realized it was true when he kneel down and said, "Will you marry me", being a super excited one, "I screamed," Isuot mo, isuot mo" haha, that was really a funny one. He wore the ring and after that a lot of smiles are on us. People are smiling and seemed so happy for us. Raj said, full of surprises ah, because even him was surprised and stucked ;)
+
+<center><img src="/images/photos/proposal.jpeg"/></center>
 
 After that, I can't help but have a teary eyed, i am so surprised and happy. Never thought the proposal will be at one of the most romantic place on earth. It was heavenly. The feeling is a bliss when there's an element of surprise. The memory is immortal, the feeling is a bliss and the action is natural and spontaneous. After that, I've been smiling all day and until now ;)
+
+
+<center><img src="/images/photos/teary.jpeg"/></center>
+

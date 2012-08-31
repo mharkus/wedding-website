@@ -5,7 +5,7 @@ layout: default
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
 <script src="javascripts/galleria-1.2.8.min.js"></script>
 <div>
-<div style="float:left; width: 60%;">
+<div style="float:left; width: 50%;">
 <h1>Hello World! :)</h1>
 Welcome to our customized wedding website!It really pays to be a programmer.
  Thank you so much for visiting! You’ll find every piece of information you will need regarding our wedding celebration. We are so excited to be spending this special time with friends and family we hold so dear to our hearts. 
