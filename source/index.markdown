@@ -25,28 +25,14 @@ Please don't  forget to sign up at our Guest Book and use our Contact Us page to
 <div style="float:right">
 <div id="galleria">
 
-                <img src="images/photos/DSCF0816.jpg"/>
-                <img src="images/photos/DSCF0611.jpg"/>
-                <img src="images/photos/DSCF0567.jpg"/>
-                <img src="images/photos/IMG_0456.jpg"/>
-                <img src="images/photos/IMG_0198.jpg"/>
-                <img src="images/photos/IMG_0168.jpg"/>
-                <img src="images/photos/IMG_3152.jpg"/>
-                <img src="images/photos/IMG_2748.jpg"/>
-                <img src="images/photos/IMG_2701.jpg"/>
-                <img src="images/photos/IMG_1987.jpg"/>
-                <img src="images/photos/IMG_1879.jpg"/>
-                <img src="images/photos/IMG_0746.jpg"/>
-                <img src="images/photos/IMG_0733.jpg"/>
-                <img src="images/photos/IMG_0581.jpg"/>
-                <img src="images/photos/IMG_0579.jpg"/>
-                <img src="images/photos/IMG_0146.jpg"/>
-                <img src="images/photos/IMG_8159.jpg"/>
+                <img src="images/photos/IMG_8144.jpg"/>
+                <img src="images/photos/IMG_8291.jpg"/>
+                <img src="images/photos/IMG_8466.jpg"/>
+                <img src="images/photos/IMG_8858.jpg"/>
+                <img src="images/photos/tajmahal.jpg"/>
                 <img src="images/photos/IMG_8082.jpg"/>
-                <img src="images/photos/IMG_7683.jpg"/>
-                <img src="images/photos/IMG_6880.jpg"/>
-                <img src="images/photos/IMG_6642.jpg"/>
-                <img src="images/photos/105_0655.JPG"/>
+                <img src="images/photos/IMG_0579.jpg"/>
+                <img src="images/photos/DSCF0611.jpg"/>
         </div>
 	
 	<script>
