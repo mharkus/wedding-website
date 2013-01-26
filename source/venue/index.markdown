@@ -6,7 +6,6 @@ comments: true
 sharing: true
 footer: true
 ---
-Testing 2
 
 <center><img src="http://i1.trekearth.com/photos/101788/pinoycatholic001.jpg"/></center>
 
